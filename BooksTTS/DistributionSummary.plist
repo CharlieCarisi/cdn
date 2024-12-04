@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BooksTTS.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>C0ADACD1D4880DFE0B9ACD257D4D8B97930003DE</string>
+				<key>dateExpires</key>
+				<string>2025-09-06</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>3A7988WGMD.com.localhosts.BooksTTS</string>
+				<key>com.apple.developer.icloud-container-identifiers</key>
+				<array/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>3A7988WGMD</string>
+				<key>com.apple.developer.ubiquity-kvstore-identifier</key>
+				<string>3A7988WGMD.com.localhosts.BooksTTS</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>BooksTTS.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>a51649bc-9a57-40f8-b2f5-f4a31ce15a44</string>
+				<key>dateExpires</key>
+				<string>2025-09-06</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.localhosts.BooksTTS</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>3A7988WGMD</string>
+				<key>name</key>
+				<string>Pink Elephant Inc.</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
